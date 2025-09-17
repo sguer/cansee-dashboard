@@ -2,6 +2,7 @@
   "name": "cansee-dashboard-v3",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://sguer.github.io/cansee-dashboard",
   "dependencies": {
     "@fortawesome/free-regular-svg-icons": "^7.0.1",
     "@fortawesome/free-solid-svg-icons": "^7.0.1",
