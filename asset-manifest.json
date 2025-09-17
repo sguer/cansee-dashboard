@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cansee-dashboard/static/css/main.964710a0.css",
+    "main.js": "/cansee-dashboard/static/js/main.bc9acfd5.js",
+    "static/js/453.0aead720.chunk.js": "/cansee-dashboard/static/js/453.0aead720.chunk.js",
+    "index.html": "/cansee-dashboard/index.html",
+    "main.964710a0.css.map": "/cansee-dashboard/static/css/main.964710a0.css.map",
+    "main.bc9acfd5.js.map": "/cansee-dashboard/static/js/main.bc9acfd5.js.map",
+    "453.0aead720.chunk.js.map": "/cansee-dashboard/static/js/453.0aead720.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964710a0.css",
+    "static/js/main.bc9acfd5.js"
+  ]
+}
