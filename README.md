@@ -2,7 +2,7 @@
 *French version coming soon / Version française à venir*
 
 
-Welcome! This repository contains a **prototype dashboard** developed for CANSEE’s 2023 Annual General Meeting (AGM).  
+Welcome! This repository contains a **prototype dashboard** developed for CANSEE’s Annual General Meeting (AGM).  
 It is intended as both a practical analysis tool and a demonstration of how creative, data-driven approaches can support CANSEE’s mission and future outreach.
 
 
