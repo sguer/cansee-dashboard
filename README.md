@@ -1,5 +1,5 @@
 # CANSEE Strategic Analysis Dashboard (Prototype)
-*French version coming soon / Version française à venir*
+*Version française à venir pour le Tableau de bord stratégique SCANÉÉ*
 
 
 Welcome! This repository contains a **prototype dashboard** developed for CANSEE’s Annual General Meeting (AGM).  
