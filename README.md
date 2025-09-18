@@ -5,7 +5,7 @@ This project provides a strategic overview of CANSEE's 2023 conference, financia
 
 ## Getting Started
 
-These instructions assume you have Node.js installed.
+You need to have Node.js installed for this create-react-app script to work in a local development environment
 
 ### Install Dependencies
 
